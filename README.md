@@ -1,2 +1,2 @@
 # Stack and Queue
-Basic Stack Project
+Basic Stack and Queue project
